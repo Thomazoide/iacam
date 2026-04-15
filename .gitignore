@@ -1,0 +1,11 @@
+.env
+/tmp
+*.pt
+/.next
+/node_modules
+/.pnp
+.pnp.*
+.vercel
+next-env.d.ts
+*.tsbuildinfo
+/build
